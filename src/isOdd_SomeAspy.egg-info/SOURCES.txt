@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/isOdd/__init__.py
+src/isOdd/main.py
+src/isOdd_SomeAspy.egg-info/PKG-INFO
+src/isOdd_SomeAspy.egg-info/SOURCES.txt
+src/isOdd_SomeAspy.egg-info/dependency_links.txt
+src/isOdd_SomeAspy.egg-info/top_level.txt
